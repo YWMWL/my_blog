@@ -50,6 +50,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -187,12 +190,12 @@
       <updated>1494699291787</updated>
       <workItem from="1494699293547" duration="985000" />
       <workItem from="1494700365994" duration="64000" />
-      <workItem from="1494700437314" duration="2992000" />
+      <workItem from="1494700437314" duration="3408000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4041000" />
+    <option name="totallyTimeSpent" value="4457000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
